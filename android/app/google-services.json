@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458394438362",
+    "project_id": "message-me-56f70",
+    "storage_bucket": "message-me-56f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458394438362:android:07f70f95d24d6741e0b3e3",
+        "android_client_info": {
+          "package_name": "com.hazembakr.firebase_auth_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9IU50jmH0onQS0w5ZrDMLphjdBp4YkqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
